@@ -45,9 +45,7 @@ Uma fila pode estar vinculada a vários exchanges, e um exchange também pode es
   - Headers
 
 
+## Referências
 
-
-
-
-
-
+- https://www.rabbitmq.com/getstarted.html
+- https://stiller.blog/2020/02/rabbitmq-vs-kafka-an-architects-dilemma-part-1/
